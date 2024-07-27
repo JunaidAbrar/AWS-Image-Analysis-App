@@ -2,6 +2,8 @@ Experience the application in action: [Image Analysis Web App]:
 (http://my-image-analysis-app-junaid.s3-website-us-east-1.amazonaws.com/)
 
 # Image Analysis Web Application
+![Serverless](https://github.com/user-attachments/assets/3eabb605-c684-436a-862c-da330dde699e)
+
 
 ## Project Overview
 
