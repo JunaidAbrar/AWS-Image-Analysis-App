@@ -1,5 +1,5 @@
-## Live Deployed Link
-http://my-image-analysis-app-junaid.s3-website-us-east-1.amazonaws.com/
+Experience the application in action: [Image Analysis Web App]:
+(http://my-image-analysis-app-junaid.s3-website-us-east-1.amazonaws.com/)
 
 # Image Analysis Web Application
 
